@@ -1,0 +1,50 @@
+.container {
+	min-width: 310px;
+	max-width: 330px;
+	margin: 2px auto;
+	display: flex;
+	border : solid 0.5px transparent;
+}
+
+.container_pc_highlight {
+	min-width: 310px;
+	max-width: 330px;
+	margin: 2px auto;
+	display: flex;
+	border : 0.5px solid rgba(0, 128, 0, 0.575);
+	background: rgba(2, 168, 2, 0.123);
+}
+
+.container_mem_highlight {
+	min-width: 310px;
+	max-width: 330px;
+	margin: 2px auto;
+	display: flex;
+	border : 0.5px solid rgba(206, 221, 0, 0.575);
+	background: rgba(168, 157, 2, 0.123);
+}
+
+.item {
+	margin: auto 5px;
+	font-size: 1.0em;
+}
+
+.not_valid {
+	background-color: rgb(255, 218, 218);
+}
+
+.pc_is_here {
+    background: rgb(168, 255, 172);
+    width: 25px;
+	text-align: center;
+}
+
+.address {
+    background: rgb(242, 255, 168);
+    min-width: 50px;
+	text-align: center;
+}
+
+.data_field {
+	width : 100px	
+}

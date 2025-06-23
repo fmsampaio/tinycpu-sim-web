@@ -16,7 +16,11 @@
   "dependencies": {
     "express": "^4.20.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "file-saver": "^2.0.5",
+    "serve": "^14.2.1",
+    "use-file-picker": "^2.1.1",
+    "web-vitals": "^2.1.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",

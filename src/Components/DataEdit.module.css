@@ -1,0 +1,31 @@
+.container {
+    width: 80%;
+	margin: 2px auto;
+	display: flex;
+	border : solid 0.5px transparent;
+}
+
+.container_highlight {
+	width: 80%;
+	margin: 2px auto;
+	display: flex;
+	border : 0.5px solid rgba(128, 0, 0, 0.575);
+	background: rgba(168, 2, 2, 0.123);
+}
+
+.item {
+    max-width : 50px;
+	margin: auto 5px;
+	font-size: 1.0em;
+}
+
+.address {
+    background: rgb(242, 255, 168);
+    min-width: 50px;
+	text-align: center;
+}
+
+.data_header {
+	min-width : 50px;
+	margin: auto 5px;
+}

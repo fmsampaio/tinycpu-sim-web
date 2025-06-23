@@ -1,0 +1,16 @@
+.regs_container {
+  width: 100%;
+  height: fit-content;
+  background-color: rgba(220, 220, 220, 0.39);
+}
+
+.internal_regs_container {
+  display : flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+  
+h2 {
+  text-align: center;
+  margin-top: 5px;
+}
