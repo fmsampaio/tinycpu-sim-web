@@ -1,0 +1,9 @@
+.container {
+    min-width: 350px;
+    padding-bottom: 30px;
+    background-color: rgba(220, 220, 220, 0.39);
+}
+
+h2 {
+    text-align: center;
+}

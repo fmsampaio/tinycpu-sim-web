@@ -1,0 +1,15 @@
+.container {
+  margin-top: auto;
+  width: 100%;
+  height: fit-content;
+  color: rgb(128, 128, 128);
+  text-align: justify;
+}
+
+h4 {
+  margin: 0px;
+}
+
+p {
+  font-size: small;
+}
